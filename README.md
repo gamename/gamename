@@ -1,5 +1,5 @@
 ## Who Am I?
-I'm a retired software engineer who constantly tinkers with automation projects. I tend to focus on projects that involve things like esp32 microcontrollers, ws2812b LED strips, RGB LEDs, machine learning, and Raspberry Pi's. I make heavy use of Amazon Web Services (AWS) for backend processing and notifications.
+I am a retired software engineer who constantly tinkers with automation projects. I tend to focus on projects that involve things like esp32 microcontrollers, ws2812b LED strips, RGB LEDs, machine learning, and Raspberry Pi's. I make heavy use of Amazon Web Services (AWS) for backend processing and notifications.
 
 ## Using Organizations vs Account Repositories
 Over the years, I found that putting everything in repositories on my account became a little restrictive. There was no good way to associate multiple repos with a single, overarching project. So with that in mind, I started using organizations to group related repos. Some of the organizations I have are: 
