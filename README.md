@@ -1,7 +1,8 @@
 ## Who Am I?
-I'm a retired software engineer who is constantly tinkering on new home automation projects. I tend to focus on projects that involve things like esp32 microcontrollers, ws2812b LED strips, RGB LEDs, machine learning, and Raspberry Pi's. I make heavy use of Amazon Web Services (AWS).
+I'm a retired software engineer who constantly tinkers with automation projects. I tend to focus on projects that involve things like esp32 microcontrollers, ws2812b LED strips, RGB LEDs, machine learning, and Raspberry Pi's. I make heavy use of Amazon Web Services (AWS) for backend processing and notifications.
 
-Over the years, I found that putting everything in repositories on my account became a little restrictive. There was no good way to associate multiple repos with a single, overarching project. So with that in mind, I started using organizations to group repos. Some of the organizations I have are: 
+## Using Organizations vs Account Repositories
+Over the years, I found that putting everything in repositories on my account became a little restrictive. There was no good way to associate multiple repos with a single, overarching project. So with that in mind, I started using organizations to group related repos. Some of the organizations I have are: 
 
 - [Cat Doorbell](https://github.com/cat-doorbell-v4) - Decommissioned Google Pixel phones that are hacked to sense when a cat is meowing, then verify a cat is "seen" by the camera, which then causes an SMS text message to be forwareded to me.
 - [Chicken Coop Door Status](https://github.com/chicken-coop-door-status) - Save little chicken lives by verifying doors are closed at the correct times of the day.
