@@ -10,6 +10,6 @@ Over the years, I found that putting everything in repositories on my account be
 - [Garage Notifier](https://github.com/garage-notifier) - Let me know when my garage door opens/closes by sending a text message
 - [Gate Sensor](https://github.com/gate-sensor-v1) - Keep me informed when a back gate is open or closed
 - [Mailbox Notifier](https://github.com/gate-sensor-v1) - Tell me when the (snail) mailbox is open/closed/ajar via text messages
-- [Water Bowl Notifier](https://github.com/waterbowl-notifier) - Monitor the contents of pet waterbowls. Text me when then need filling.  Provide additional feedback via a small LED on the device as well.
+- [Water Bowl Notifier](https://github.com/waterbowl-notifier) - Monitor the contents of pet waterbowls. Text me when they need filling.  Provide additional feedback via a small LED on the device as well.
 - [Porch Lighting](https://github.com/gamename-iot-porch-lights) - Light my porch based on sunrise/sunset times provided by the US Naval Observatory
 
